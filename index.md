@@ -19,3 +19,5 @@ Hochhauses besetzt.
 * mutig
 
 > McClane gelingt es als Einzigem, sich vor den Räubern zu verstecken. In Einzelkämpfermanier schaltet er einen Gangster nach dem anderen aus und versucht, einen Notruf abzusetzen. Dabei wird er zwar von den Kriminellen entdeckt, doch es gelingt ihm, die Aufmerksamkeit des Streifenpolizisten Al Powell auf sich zu ziehen, der das FBI einschaltet.
+
+<img src="https://de.wikipedia.org/wiki/Datei:Bruce_Willis_by_Gage_Skidmore_3.jpg"/>
