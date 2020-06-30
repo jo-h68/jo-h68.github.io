@@ -12,3 +12,8 @@ schwer bewaffneten Gangstern gestürmt, angeführt vom deutschen Kriminellen Han
 Um unentdeckt zu bleiben und ohne großes Aufsehen den Tresor der Firma plündern zu können, werden 
 alle Verbindungen nach außen gekappt, die Partygäste als Geiseln genommen und die Rezeption des 
 Hochhauses besetzt. 
+
+## Character traits of John McClane
+* sehr cool
+* stark
+* mutig
